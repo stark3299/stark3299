@@ -1,4 +1,4 @@
-<img src="https://github.com/Debanshu777/Debanshu777/blob/main/banner.png"/>
+<img width=1200 height=300 src="https://github.com/stark3299/stark3299/blob/main/svg/Howdy!%F0%9F%91%8B___I'm_Sumit_.png"/>
 <table>
     <tr>
       <td  align="center">
@@ -22,29 +22,21 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" height=300 width=300/>
 
    #### A little about me...  
-   Howdy! I'm an **Undergrad Student🎓 [@BIT MESRA](https://www.bitmesra.ac.in)** pursuing CSE. I'm an Android Developer and passionate about creating technology to elevate        people, and building community.
-   Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and online games💻.
+   I'm an **Undergrad Student🎓 [@BIT MESRA](https://www.bitmesra.ac.in)** pursuing CSE. I'm an Android Developer and passionate about creating technology to elevate              people, and building community.
+   Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and gaming💻.
    - 👯 I’m looking to collaborate on **some good Android Projects**
-   - 💬 Ask me about **Android Development(Kotlin/Java), Flutter, Web Development with NodeJs**
+   - 💬 Ask me about **Android Development(Kotlin/Java), Flutter & Web Development**
    - 📫 How to reach me **ranjansumit430@gmail.com**
-   - 🔭 Space FanBoi, die for space😼
+   - 🔭 **Space FanBoi, die for space**😼
    - 😄 Pronouns: He / Him / Bro / Dude
-   - ⚡ Fun fact: ...
+   - ⚡ Collab with me on Android Projects. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
   <a href="#">
     <img src="svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
-  </a>   
-  
-  <a href="#">
-    <img src="svg/dev/frameworks/firebase.svg" alt="firebase" style="vertical-align:top; margin:6px 4px">
-  </a>
-  
-  <a href="#">
-    <img src="svg/dev/frameworks/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>    
 
   <a href="#">
     <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
@@ -108,13 +100,13 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=stark3299&theme=dark" alt="stark3299" align="center"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=stark3299&theme=calm" alt="stark3299" align="center"/>
         </td>
         <td rowspan=2>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stark3299&theme=dark" align="center" alt="stark3299" align="center"/></td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stark3299&theme=calm" align="center" alt="stark3299" align="center"/></td>
     </tr>
     <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=stark3299&show_icons=true&locale=en&count_private=true&theme=dark&show_icons=true" alt="stark3299"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=stark3299&show_icons=true&locale=en&count_private=true&theme=calm&show_icons=true" alt="stark3299"/></td>
     </tr>
 </table>
 
