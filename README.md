@@ -22,7 +22,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" height=300 width=300/>
 
    #### A little about me...  
-   Howdy! I'm an **Undergrad Student🎓 [@BIT MESRA](https://www.bitmesra.ac.in)** pursuing CSE. I'm an Android Developer and passionate about creating technology to elevate        people, and building community. 
+   Howdy! I'm an **Undergrad Student🎓 [@BIT MESRA](https://www.bitmesra.ac.in)** pursuing CSE. I'm an Android Developer and passionate about creating technology to elevate        people, and building community.
    Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and online games💻.
    - 👯 I’m looking to collaborate on **some good Android Projects**
    - 💬 Ask me about **Android Development(Kotlin/Java), Flutter, Web Development with NodeJs**
@@ -37,9 +37,13 @@
   <a href="#">
     <img src="svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
   </a>   
-
+  
   <a href="#">
-    <img src="svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/frameworks/firebase.svg" alt="firebase" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="#">
+    <img src="svg/dev/frameworks/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
@@ -60,11 +64,7 @@
 
   <a href="#">
     <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>   
+  </a>     
 
    <a href="#">
     <img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
@@ -73,10 +73,6 @@
    <a href="#">
     <img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
   </a>  
-
-   <a href="#">
-    <img src="svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
-  </a> 
   
   <a href="#">
     <img src="svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:6px 4px">
@@ -108,19 +104,17 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stark3299&show_icons=true&locale=en&layout=compact" alt="stark3299" /></p>
+### Some facts:
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=stark3299&theme=dark" alt="stark3299" align="center"/>
+        </td>
+        <td rowspan=2>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stark3299&theme=dark" align="center" alt="stark3299" align="center"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=stark3299&show_icons=true&locale=en&count_private=true&theme=dark&show_icons=true" alt="stark3299"/></td>
+    </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stark3299&show_icons=true&locale=en" alt="stark3299" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stark3299&" alt="stark3299" /></p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
--->
