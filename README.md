@@ -19,7 +19,7 @@
 </table>
 <br>
 <img src="https://komarev.com/ghpvc/?username=stark3299&style=flat-square"/>
-<img align="right" alt="GIF" src="https://github.com/Debanshu777/Debanshu777/blob/main/giphy.gif" height=300 width=300/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" height=300 width=300/>
 
    #### A little about me...  
    Howdy! I'm an **Undergrad Student🎓 [@BIT MESRA](https://www.bitmesra.ac.in)** pursuing CSE. I'm an Android Developer and passionate about creating technology to elevate        people, and building community. 
@@ -32,7 +32,7 @@
    - ⚡ Fun fact: ...
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="left"> 
   
   <a href="#">
     <img src="svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
@@ -82,7 +82,6 @@
     <img src="svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-
   <a href="#">
     <img src="svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -90,8 +89,7 @@
   <a href="#">
     <img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
   </a>
-  
-<p align="left">
+
   <a href="#">
     <img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
   </a> 
